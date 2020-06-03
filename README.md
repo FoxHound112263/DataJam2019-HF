@@ -1,18 +1,18 @@
 # DataJam2019-HF
 Results from the DataJam competition: use of data science to fight human trafficking.
 
-# Migration from Colombia
+## Migration from Colombia
 ![image](https://github.com/FoxHound112263/DataJam2019-HF/blob/master/output/out.png)
 
-# Network
+## Network
 
 ![image](https://github.com/FoxHound112263/DataJam2019-HF/blob/master/output/quant.png)
 
-# Cluster
+## Cluster
 
 ![image](https://github.com/FoxHound112263/DataJam2019-HF/blob/master/output/cluster.png)
 
-# Findings
+## Findings
 
 ![image](https://github.com/FoxHound112263/DataJam2019-HF/blob/master/output/find.png)
 
